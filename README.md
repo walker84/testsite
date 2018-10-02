@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/walker84/testsite/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Link to the second page [here](https://walker8.github.io/testsite/testpage1.md).
+Link to the second page [here](/testpage1.md).
 
 ### Markdown
 

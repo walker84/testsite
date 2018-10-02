@@ -15,3 +15,4 @@ Let's see how this looks.
 
 We can use **bold** and _italic_ along with `Code` text.
 
+[Jump back to the main page](/README.md)
